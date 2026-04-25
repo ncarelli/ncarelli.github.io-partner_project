@@ -7,12 +7,29 @@ layout: default
 
 In our analysis, we tried to analyze how beginner students would react to changes to include pre-class videos
 
+## Summary
+
+We found that students that have no experience with coding prior to the class report they have more difficulty with assignments and understanding, leading to them wanting more videos prior to class, reporting it as extremely important
+
+
+Now we decided to count how many people were in each group to better understand how the data was created
+
+
+This demonstrates that the majority of the 500 people in our data had little coding experience, due to the smaller SE depicted in our graph and from the count function, showing that half of the sample(250) have less than one month of coding. 
+
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 
 
-<img src="output.png" alt="Line Graph of Prelecture Videos and Prior Time" width="500"/>
+
 <img src="line.png" alt="Line Graph of Prelecture Videos and Prior Time" width="500"/>
+The trend shows that people who would benefit from prelecture videos the most, are more likely to be first time coders. This confirms our initial idea that creating some type of video with recorded examples would be extremely beneficial to beginners in comp110.
+
+<img src="output.png" alt="Line Graph of Prelecture Videos and Prior Time" width="500"/>
+
+This graph demonstrates how the large majority of beginner students, non-comp majors, are the ones who benefit the most from the pre-lecture videos. Another crucial thing that the graph demonstrates is that the people who are comp majors are also largely in favor of creating pre-lecture videos, as they might allow easier studying and application to future comp courses.
+
 <img src="preclass_difficulty.png" alt="Preclass And Difficulty" width="500"/>
+This shows that people who find the class more difficult, which is more prevalent in the top right, also would find pre-lecture videos extremely helpful, demonstrating that some type of pre-class examples would keep them more on track in class and reduce the total difficulty.
 
 ## Conclusion
 
