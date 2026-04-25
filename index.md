@@ -10,10 +10,9 @@ In our analysis, we tried to analyze how beginner students would react to change
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 
 
-<img src="partner_project/static/imgs/logo/ncarelli/comp110-26s-workspace/exercises/ex09/output.png" alt="Line Graph of Prelecture Videos and Prior Time"  width="500"/>
-<img src="partner_project/output.png" alt="Line Graph of Prelecture Videos and Prior Time" width="500"/>
-<img src="partner_project/line.png" alt="Line Graph of Prelecture Videos and Prior Time" width="500"/>
-<img src="partner_project/preclass_difficulty.png" alt="Preclass And Difficulty" width="500"/>
+<img src="output.png" alt="Line Graph of Prelecture Videos and Prior Time" width="500"/>
+<img src="line.png" alt="Line Graph of Prelecture Videos and Prior Time" width="500"/>
+<img src="preclass_difficulty.png" alt="Preclass And Difficulty" width="500"/>
 
 ## Conclusion
 
